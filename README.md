@@ -1,16 +1,17 @@
 # scr-2024
 
-# PLAY:\
-https://gomolinskip.itch.io/scr-2425-gomolinski-p
+# PLAY:
+https://gomolinskip.itch.io/scr-2425-gomolinski-p\
+(works with WebGL, looks better in FULLSCREEN)
 
-# CONTROLS:\
+# CONTROLS:
 WASD or ARROWS - movement\
 LEFT SHIFT - roll\
 SPACEBAR - sword attack\
 MOUSEWHEEL - camera zoom\
 < and > - camera rotation
 
-# C# scripts:\
+# C# scripts:
 [playerMove.cs](Assets/playerMove.cs) - controll player script\
 [enemyAI.cs](Assets/enemyAI.cs) - controlls enemies' behaviour\
 [followPlayer.cs](Assets/followPlayer.cs) - controlls camera movement\
