@@ -1,6 +1,6 @@
 # scr-2024
 
-PLAY:
+PLAY:\
 https://gomolinskip.itch.io/scr-2425-gomolinski-p
 
 C# scripts:
