@@ -4,13 +4,13 @@ PLAY:\
 https://gomolinskip.itch.io/scr-2425-gomolinski-p
 
 C# scripts:\
-[playerMove.cs](Assets/playerMove.cs)\
-[enemyAI.cs](Assets/enemyAI.cs)\
-[followPlayer.cs](Assets/followPlayer.cs)\
-[healthPoints.cs](Assets/healthPoints.cs)\
-[Score.cs](Assets/Score.cs)\
-[weaponScript.cs](Assets/weaponScript.cs)\
-[uiControl.cs](Assets/uiControl.cs)\
-[MainMenu.cs](Assets/MainMenu.cs)\
-[Detector.cs](Assets/Detector.cs)
+[playerMove.cs](Assets/playerMove.cs) - controll player script\
+[enemyAI.cs](Assets/enemyAI.cs) - controlls enemies' behaviour\
+[followPlayer.cs](Assets/followPlayer.cs) - controlls camera movement\
+[healthPoints.cs](Assets/healthPoints.cs) - class for storing health points for player/enemies\
+[Score.cs](Assets/Score.cs) - class for storing player's score\
+[weaponScript.cs](Assets/weaponScript.cs) - controlls damage dealt to enemies by player's weapon\
+[uiControl.cs](Assets/uiControl.cs) - updates UI (health and score)\
+[MainMenu.cs](Assets/MainMenu.cs) - controlls main menu (and game over) UI buttons\
+[Detector.cs](Assets/Detector.cs) - used for detecting collisions of enemies' heads' and the player
 
