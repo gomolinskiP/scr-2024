@@ -12,5 +12,5 @@ C# scripts:\
 [weaponScript.cs](Assets/weaponScript.cs)\
 [uiControl.cs](Assets/uiControl.cs)\
 [MainMenu.cs](Assets/MainMenu.cs)\
-[Detector.cs](Assets/Detector.cs)\
+[Detector.cs](Assets/Detector.cs)
 
