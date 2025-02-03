@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: f0612f9ade4945544b78e7b155ade161
+timeCreated: 1522483325
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 100100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115954
+  packageName: Big Bat_Carb
+  packageVersion: 1.0
+  assetPath: Assets/big_bat_carb/prefab/bdl_byx.prefab
+  uploadId: 242427

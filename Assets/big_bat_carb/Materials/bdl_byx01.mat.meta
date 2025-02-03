@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: cf961315111f4704a8abede533528c5c
+timeCreated: 1522057184
+licenseType: Store
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 115954
+  packageName: Big Bat_Carb
+  packageVersion: 1.0
+  assetPath: Assets/big_bat_carb/Materials/bdl_byx01.mat
+  uploadId: 242427
