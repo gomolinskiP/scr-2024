@@ -8,7 +8,7 @@ WASD or ARROWS - movement\
 LEFT SHIFT - roll\
 SPACEBAR - sword attack\
 MOUSEWHEEL - camera zoom\
-< and > - camera rotation\
+< and > - camera rotation
 
 C# scripts:\
 [playerMove.cs](Assets/playerMove.cs) - controll player script\
