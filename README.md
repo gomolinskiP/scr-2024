@@ -7,7 +7,7 @@ C# scripts:\
 [playerMove.cs](Assets/playerMove.cs)\
 [enemyAI.cs](Assets/enemyAI.cs)\
 [followPlayer.cs](Assets/followPlayer.cs)\
-[heathPoints.cs](Assets/heathPoints.cs)\
+[healthPoints.cs](Assets/healthPoints.cs)\
 [Score.cs](Assets/Score.cs)\
 [weaponScript.cs](Assets/weaponScript.cs)\
 [uiControl.cs](Assets/uiControl.cs)\
